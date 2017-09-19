@@ -1,5 +1,8 @@
 # project-work-flow
 
+Jon Legaspi
+
+
 Gary Sansone
 
 Ramiro Pinedo
